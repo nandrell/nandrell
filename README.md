@@ -5,7 +5,7 @@
 ### Confidence       ██████████████████ 100%
 
 <h1 align="center">Yow, I'm Nandrell 👋</h1>
-<h3 align="center">Professional Gaymer 🎮 | The Best Programmer ⌨️</h3>
+<h3 align="center">Professional Gamer 🎮 | The Best Programmer ⌨️</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" />
@@ -14,7 +14,7 @@
 ---
 ## 🤓 About Me
 - 💻 Programmer (trust me bro)
-- 🎮 Gaymer (the best noob)
+- 🎮 Gamer (the best noob)
 - 🤭 Very Pogi (true)
 - 🇵🇭 Based in the Philippines
 
